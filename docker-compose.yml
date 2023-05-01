@@ -3,4 +3,4 @@ services:
   tfc-agent:
     image: eftechcombr/tfc-agent:latest
     build: . 
-    env_file: ./.env
+    env_file: .env
